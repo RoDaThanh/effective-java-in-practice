@@ -1,8 +1,7 @@
 package com.roda.effectivejava.item02_builder;
 
 /**
- * the telescoping constructor pattern works, but it is hard to write
- * client code when there are many parameters, and harder still to read it
+ * Using builder to create GoodExample class
  */
 public class GoodExample {
     private final int size;
